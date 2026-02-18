@@ -1,6 +1,6 @@
 html {
-    --primary-color: rgb(0, 255, 208);
-    --secondary-color: rgb(176, 142, 255);
+    --primary-color: rgb(0, 5, 61);
+    --secondary-color: rgb(255, 196, 0);
 
     /* Color-mix */
     /* Link: https://developer.chrome.com/docs/css-ui/css-color-mix?hl=nl */
@@ -12,10 +12,10 @@ html {
             color-mix(in oklab, var(--secondary-color) 30%, red),
             color-mix(in oklab, var(--secondary-color) 30%, white),
             color-mix(in oklab, var(--secondary-color) 30%, blue));
-    --ellipse-color: color-mix(in oklab, var(--secondary-color) 60%, rgb(255, 247, 0));
-    --ellipse-border-color: color-mix(in oklab, var(--secondary-color) 50%, rgb(229, 111, 0));
-    --text-color: color-mix(in oklab, var(--primary-color) 60%, rgb(211, 211, 211));
-    --border-color: color-mix(in oklab, var(--primary-color) 60%, rgb(0, 0, 0));
+    --ellipse-color: color-mix(in oklab, var(--secondary-color) 60%, rgb(123, 253, 111));
+    --ellipse-border-color: color-mix(in oklab, var(--secondary-color) 50%, rgb(51, 128, 0));
+    --text-color: color-mix(in oklab, var(--primary-color) 60%, rgb(160, 176, 255));
+    --border-color: color-mix(in oklab, var(--primary-color) 60%, rgb(4, 0, 66));
 }
 
 
