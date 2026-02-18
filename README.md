@@ -19,3 +19,18 @@ Uiteindelijk hebben we ons resultaat. Dit gaan we morgen presenteren.
 ## Dag 3
 
 ## Weekoverzicht
+
+## Bronnenlijst
+
+Ellipses
+Amit Sheen: corner-shape
+Link: https://frontendmasters.com/blog/understanding-css-corner-shape-and-the-power-of-the-superellipse/
+Codepen: https://codepen.io/amit_sheen/pen/pvJKGov/5d14d83481ba74eea561f08d81493614?editors=1100
+
+DE VLAG
+clip-path with shape()
+Link https://developer.chrome.com/blog/css-shape?hl=nl#create_a_flag_shape
+Codepen https://codepen.io/web-dot-dev/pen/YPzgNrL
+
+Color-mix
+Link: https://developer.chrome.com/docs/css-ui/css-color-mix?hl=nl
