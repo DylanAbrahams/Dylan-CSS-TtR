@@ -1,5 +1,5 @@
 html {
-    --primary-color: rgb(0, 5, 61);
+    --primary-color: rgb(0, 8, 95);
     --secondary-color: rgb(255, 196, 0);
 
     /* Color-mix */
@@ -14,7 +14,7 @@ html {
             color-mix(in oklab, var(--secondary-color) 30%, blue));
     --ellipse-color: color-mix(in oklab, var(--secondary-color) 60%, rgb(123, 253, 111));
     --ellipse-border-color: color-mix(in oklab, var(--secondary-color) 50%, rgb(51, 128, 0));
-    --text-color: color-mix(in oklab, var(--primary-color) 60%, rgb(160, 176, 255));
+    --text-color: color-mix(in oklab, var(--primary-color) 60%, rgb(255, 160, 160));
     --border-color: color-mix(in oklab, var(--primary-color) 60%, rgb(4, 0, 66));
 }
 
